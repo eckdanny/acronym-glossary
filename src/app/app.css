@@ -1,0 +1,34 @@
+body {
+  background-color: hsl(0, 0%, 90%);
+  margin: 0 auto;
+  width: 480px;
+  font-family: monospace;
+}
+
+.card.search {
+  padding: 15px;
+  background: orange;
+  border: none;
+}
+
+.card.search input {
+  width: 100%;
+  padding: .8em;
+  box-sizing: border-box;
+  border: 1px solid hsl(0, 0%, 95%);
+}
+.card.search input:focus {
+  outline: none;
+}
+
+.card {
+  border: 1px solid hsl(0, 0%, 75%);
+  margin: 5px 0;
+  padding: 0 15px;
+  box-sizing: border-box;
+  background: white;
+}
+
+.card dt {
+  font-weight: bold;
+}

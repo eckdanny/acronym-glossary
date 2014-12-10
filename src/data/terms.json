@@ -1,0 +1,185 @@
+[
+	{
+		"short": "SoC",
+		"long": "Seperation of Concerns",
+		"tags": ["cs"]
+	},
+	{
+		"short": "FE",
+		"long": "Front End",
+		"tags": ["roles"]
+	},
+	{
+		"short": "BE",
+		"long": "Back End",
+		"tags": ["arch"]
+	},
+	{
+		"short": "DRY",
+		"long": "Don't Repeat Yourself",
+		"tags": ["cs"]
+	},
+	{
+		"short": "PoC",
+		"long": "Proof of Concept",
+		"tags": ["biz"]
+	},
+	{
+		"short": "PR",
+		"long": "Pull Request",
+		"tags": ["cs", "git"]
+	},
+	{
+		"short": "ERD",
+		"long": "Entity Relational Diagram",
+		"tags": ["cs", "biz"]
+	},
+	{
+		"short": "KT",
+		"long": "Knowledge Transfer",
+		"tags": ["biz"]
+	},
+	{
+		"short": "FED",
+		"long": "Front End Developer",
+		"tags": ["roles"]
+	},
+	{
+		"short": "BED",
+		"long": "Back End Developer",
+		"tags": ["roles"]
+	},
+	{
+		"short": "SRP",
+		"long": "Single Responsibility Principle",
+		"tags": ["cs"]
+	},
+	{
+		"short": "UML",
+		"long": "Unified Modeling Language",
+		"tags": ["cs", "biz"]
+	},
+	{
+		"short": "CRUD",
+		"long": "Create Read Update Delete",
+		"tags": ["cs"]
+	},
+	{
+		"short": "BA",
+		"long": "Business Analyst",
+		"tags": ["roles"]
+	},
+	{
+		"short": "PM",
+		"long": "Product Manager",
+		"tags": ["roles"]
+	},
+	{
+		"short": "JWT",
+		"long": "JSON Web Token",
+		"tags": ["cs"]
+	},
+	{
+		"short": "AA",
+		"long": "Authentication and Authorization",
+		"tags": ["cs"]
+	},
+	{
+		"short": "TLS",
+		"long": "Transport Layer Security",
+		"tags": ["cs"]
+	},
+	{
+		"short": "CSM",
+		"long": "Certified Scrum Master",
+		"tags": ["roles"]
+	},
+	{
+		"short": "DMS",
+		"long": "Document Management System",
+		"tags": ["biz"]
+	},
+	{
+		"short": "CMS",
+		"long": "Content Management System",
+		"tags": ["biz"]
+	},
+	{
+		"short": "ACID",
+		"long": "Atomicity Consistency Isolation Durability",
+		"tags": ["cs"]
+	},
+	{
+		"short": "CAP",
+		"long": "Consistency Availability Partition tolerance",
+		"tags": ["cs"]
+	},
+	{
+		"short": "ES",
+		"long": "Elastic Search",
+		"tags": ["cs", "tech"]
+	},
+	{
+		"short": "ES6",
+		"long": "ECMAScript6",
+		"tags": ["cs", "tech"]
+	},
+	{
+		"short": "DBA",
+		"long": "Database Administrator",
+		"tags": ["roles"]
+	},
+	{
+		"short": "PO",
+		"long": "Product Owner",
+		"tags": ["roles"]
+	},
+	{
+		"short": "QA",
+		"long": "Quality Assurance",
+		"tags": ["biz", "roles"]
+	},
+	{
+		"short": "Q&A",
+		"long": "Question and Answer"
+	},
+	{
+		"short": "DNE",
+		"long": "Does Not Exist"
+	},
+	{
+		"short": "XHR",
+		"long": "XML Http Request",
+		"tags": ["tech"]
+	},
+	{
+		"short": "CORS",
+		"long": "Cross-Origin Resource Sharing",
+		"tags": ["tech"]
+	},
+	{
+		"short": "CI",
+		"long": "Continuous Integration",
+		"tags": ["cs", "biz"]
+	},
+	{
+		"short": "CD/CI",
+		"long": "Continuous Integration/Continuous Deployment",
+		"tags": ["cs", "biz"]
+	},
+	{
+		"short": "CDT",
+		"long": "Chrome Dev Tools",
+		"tags": ["tech"]
+	},
+	{
+		"short": "OLTP",
+		"long": "Online Transaction Processing (Database)",
+		"tags": ["cs", "biz"]
+	},
+	{
+		"short": "OLAP",
+		"long": "Online Analytics Processing (Database)",
+		"tags": ["cs", "biz"]
+	}
+]

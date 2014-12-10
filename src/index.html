@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html ng-app="de.app">
+<head>
+	<title>Danny's Acronyms</title>
+	<link rel="stylesheet" type="text/css" href="app/app.css">
+	<script src="libs/angular/angular.js"></script>
+</head>
+<body>
+
+	<div
+		ng-controller="searchController as search"
+	>
+		<div
+			class="search card"
+		>
+			<input
+				type="text"
+				autofocus
+				placeholder="FED"
+				ng-model="search.query"
+			>
+		</div>
+		<div class="results">
+			<div
+				class="card"
+				ng-repeat="result in search.terms | filter:search.query | orderBy:'short'"
+			>
+				<dl>
+					<dt
+						ng-bind="::result.short"
+					></dt>
+					<dd
+						ng-bind="::result.long"
+					></dd>
+				</dl>
+			</div>
+		</div>
+	</div>
+
+	<script src="app/app.js"></script>
+	<script src="app/search/search.js"></script>
+	<script src="app/terms/terms.js"></script>
+</body>
+</html>
