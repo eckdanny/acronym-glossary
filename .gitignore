@@ -1,2 +1,2 @@
-src/libs
 /*.sublime-*
+/node_modules
